@@ -1,0 +1,143 @@
+.min-h-screen{
+    min-height: 100vh;
+    
+}
+
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container{
+    max-width:80vw;
+}
+
+.items-center{
+
+    align-items: center;
+}
+
+justify-between{
+    justify-content: center;
+}
+
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+
+.font-bold{
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+
+.my-1{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    
+    
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+    font-size: rem;
+    
+    
+}
+.px-2{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.text-blue{
+    color:  rgb(80 85 165);
+}
+
+.btn{
+    padding: 7px 10px;
+    border: 2px solid white;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: rgb(80 85 165);
+}
+
+
+.fee{
+    text-align: center;
+    color: rgb(80 85 165);
+}
+
+.paisa{
+    text-align: center;
+    margin-right: 70px;
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+
+.likha{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.LOCATION{
+    font-weight: bolder;
+    color: white;
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 23vw;
+    margin-left: 250px;
+    min-width: 23vw;
+}
+
+.headtxt{
+    color: rgb(117, 232, 201);
+    
+    padding: 8px 0;
+    margin: 0px 30px;
+    min-width: 23vw;
+}
+
+
+.address{
+    color: rgb(139, 234, 134);
+    padding: 8px 0;
+    margin: 0px 30px;
+    
+}
+
+.number{
+    padding: 8px 0;
+    margin: 0px 0px 20px;
+    min-width: 23vw;
+}
+
+
+.copyright{
+    margin-left: 40px;
+    margin-top: 60px;
+}
+
+.right{
+    margin-left: 200px;
+}
+
+
+
